@@ -1,0 +1,1 @@
+# laravel_nested_set_model
